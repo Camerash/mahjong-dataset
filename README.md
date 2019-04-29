@@ -3,8 +3,8 @@ Computer Vision Dataset for Chinese Mahjong Tiles
 <p float="left">
   <img src="https://i.imgur.com/vyO4M5C.jpg" width="50" />
   <img src="https://i.imgur.com/ges1OYy.jpg" width="50" />
-  <img src="https://i.imgur.com/OtEd6Fe.jpg" width="50" />
-  <img src="https://i.imgur.com/ZgDxa3k.jpg" width="50" />
+  <img src="https://i.imgur.com/ZUdhHhM.png" width="50" />
+  <img src="https://i.imgur.com/VXZyUFn.png" width="50" />
   <img src="https://i.imgur.com/ey89Qkp.jpg" width="50" />
   <img src="https://i.imgur.com/8xnwIOW.jpg" width="50" /> 
   <img src="https://i.imgur.com/X6z6CHN.jpg" width="50" />
