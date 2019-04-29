@@ -1,14 +1,19 @@
 # Mahjong Dataset
 Computer Vision Dataset for Chinese Mahjong Tiles
 
-### Structures
+## Structures
 - Raw, unsliced images are located under `./raw-images`
-- Unscaled image tiles are located under `./raw-tiles`
+- Unscaled tile images are located under `./raw-tiles`
 - Scaled, ready-to-use images are located under `./tiles-resized`
 - Csv file containing tagged labels of the images, and the csv template file are located under `./tiles-data`
 
-### Data
+## Data
+- Images are mostly scraped from Google image search, Ebay and Alibaba
 - Scaled images have the dimension `240(W) x 320(H)`. Format used are `.jpg`
+
+**Ready to use data bundle can be located at the root of the repo, namely `train.zip`. It contains**
+- `images` folder for mahjong tile images
+- `data.csv` for image labels
 - Tagged labels are stored in csv with the following format:
 
 | image-name | label | label-name |
@@ -18,7 +23,7 @@ Computer Vision Dataset for Chinese Mahjong Tiles
 
 `label` is the index of the respective class of the image, see the classes below
 
-### Classes
+## Classes
 | table-name | table-index |
 | --- | --- |
 | dots-1 |	1 |
@@ -67,3 +72,6 @@ Computer Vision Dataset for Chinese Mahjong Tiles
 Refer the classes of mahjong tiles [here](https://en.wikipedia.org/wiki/Mahjong_tiles)
 
 Feel free contribute to this repo with your own data.
+
+## License
+Open sourced under MIT License
