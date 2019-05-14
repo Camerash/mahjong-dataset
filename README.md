@@ -15,6 +15,8 @@ Computer Vision Dataset for Chinese Mahjong Tiles
 - Unscaled tile images are located under `./raw-tiles`
 - Scaled, ready-to-use images are located under `./tiles-resized`
 - Csv file containing tagged labels of the images, and the csv template file are located under `./tiles-data`
+- Raw, unsliced images for untagged tiles are located under `./untagged-images-raw`
+- Untagged tile images are located under `./untagged-tiles`
 
 ## Data
 - Images are mostly scraped from Google image search, Ebay and Alibaba
