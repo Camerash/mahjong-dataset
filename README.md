@@ -1,4 +1,5 @@
 # Mahjong Dataset
+
 Computer Vision Dataset for Chinese Mahjong Tiles
 <p float="left">
   <img src="https://i.imgur.com/vyO4M5C.jpg" width="50" />
@@ -9,6 +10,10 @@ Computer Vision Dataset for Chinese Mahjong Tiles
   <img src="https://i.imgur.com/8xnwIOW.jpg" width="50" /> 
   <img src="https://i.imgur.com/X6z6CHN.jpg" width="50" />
 </p>
+
+## Update
+
+add more(629 \~ 709) Mahjong-tiles images with labels
 
 ## Structures
 - Raw, unsliced images are located under `./raw-images`
